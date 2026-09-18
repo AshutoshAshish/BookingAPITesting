@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-17T14:00:41 IST" name="Default suite" finished-at="2026-09-17T14:00:45 IST" duration-ms="4033">
+    <groups>
+    </groups>
+    <test started-at="2026-09-17T14:00:41 IST" name="Default test" finished-at="2026-09-17T14:00:45 IST" duration-ms="4033">
+      <class name="tests.CreateBooking">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.CreateBooking@2b76ff4e]" started-at="2026-09-17T14:00:41 IST" name="beforeMethod" finished-at="2026-09-17T14:00:42 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCreateBooking(org.testng.ITestContext)[pri:0, instance:tests.CreateBooking@2b76ff4e]" started-at="2026-09-17T14:00:42 IST" name="testCreateBooking" finished-at="2026-09-17T14:00:45 IST" duration-ms="3747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@38600b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateBooking -->
+      </class> <!-- tests.CreateBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
